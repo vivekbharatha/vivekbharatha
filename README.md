@@ -1,7 +1,7 @@
 ### Hello!
 
 I am a highly skilled Senior Software Engineer 🥷 with a passion for solving complex problems and creating innovative solutions.<br/>
-With over 8 years of experience in the industry, I have honed my expertise in software architecture, database designs, highly scalable backend development, full stack development with reactjs
+With over 10+ years of experience in the industry, I have honed my expertise in software architecture, database designs, highly scalable backend development, full stack development with reactjs
 
 ---
 👨‍💻 Working at **Easygenerator**<br/>
